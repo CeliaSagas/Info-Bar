@@ -1,4 +1,4 @@
-![Banner](https://github.com/CeliaSagas/Info-Bar/blob/5e5943e1486f0f14f1e3bf9c9dd9187066589290/img/Info-Bar.jpeg)
+![Banner](https://github.com/CeliaSagas/Info-Bar/blob/51d90c419d913a71ef2cb94e56d167421c62a673/img/InfoBarHeader.jpeg)
 
 
 
