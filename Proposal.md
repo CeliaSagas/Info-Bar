@@ -1,4 +1,4 @@
-![Banner](https://github.com/CeliaSagas/Lidar-Net/blob/394ca201bff3ef4ecdc1b805da835338b488298e/img/Lidar-Net.jpeg)
+![Banner](https://github.com/CeliaSagas/Info-Bar/blob/5e5943e1486f0f14f1e3bf9c9dd9187066589290/img/Info-Bar.jpeg)
 
 
 
