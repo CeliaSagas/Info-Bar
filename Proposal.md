@@ -27,7 +27,7 @@ Critical Information Bar For Supporting Media Literacy
 
 1. What dataset(s) do you plan to use, and how will you obtain the data?
 
-    - The dataset I will be using comes from ![All The News](https://www.kaggle.com/snapcrack/all-the-news), a collection of over 100,000 articles published between the years 2015 - 2017 on a variety of publications such as the New York Times, Breitbart, Buzzfeed, and Vox.
+    - The dataset I will be using comes from [All The News](https://www.kaggle.com/snapcrack/all-the-news), a collection of over 100,000 articles published between the years 2015 - 2017 on a variety of publications such as the New York Times, Breitbart, Buzzfeed, and Vox.
 
 2. What is an individual sample/unit of analysis in this project?
 
@@ -58,4 +58,4 @@ Critical Information Bar For Supporting Media Literacy
 
 1. What would a minimum viable product (MVP) look like for this project?
 
-    - My MVP will be a baseline nlp classifier that can detect % of hyperbolic language in an article. 
+    - My MVP will be a baseline nlp classifier that can detect % of hyperbolic language in an article.
