@@ -18,7 +18,6 @@ The hyperbole classifier will not be feasible for this project, as the datasets 
 
 ![Negative Sentiment](https://github.com/CeliaSagas/Info-Bar/blob/45603e9f777a057dd6f7b54324957a3fbaab4604/img/Negative_Sent.png)
 
-![Positive Sentiment](https://github.com/CeliaSagas/Info-Bar/blob/45603e9f777a057dd6f7b54324957a3fbaab4604/img/Positive_Sent.png)
 
 ![Subjectivity](https://github.com/CeliaSagas/Info-Bar/blob/45603e9f777a057dd6f7b54324957a3fbaab4604/img/Subjectivity_Sent.png)
 
