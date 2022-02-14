@@ -16,6 +16,11 @@ The goal of this project is to provide crucial information for making decisions 
 
 The hyperbole classifier will not be feasible for this project, as the datasets of tagged hyperboles and paraphrase sentences are currently not available for open use. Therefore, I am focusing on other dimensions that may help with media literacy. I am utilizing the fake news dataset from Kaggle to compare possible useful features before creating the infobar feature suite.
 
+![Negative Sentiment](https://github.com/CeliaSagas/Info-Bar/blob/45603e9f777a057dd6f7b54324957a3fbaab4604/img/Negative_Sent.png)
+
+![Positive Sentiment](https://github.com/CeliaSagas/Info-Bar/blob/45603e9f777a057dd6f7b54324957a3fbaab4604/img/Positive_Sent.png)
+
+![Subjectivity](https://github.com/CeliaSagas/Info-Bar/blob/45603e9f777a057dd6f7b54324957a3fbaab4604/img/Subjectivity_Sent.png)
 
 # Next Steps
 
