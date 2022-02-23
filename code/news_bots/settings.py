@@ -12,7 +12,7 @@
 # db_name = './articles.db'
 
 
-CONNECTION_STRING = "postgresql://vreeyruntyufxs:e87b80d25c5d82bdab814a289ab330140ddcc16439639aacbc502d942720f4bd@ec2-18-215-8-186.compute-1.amazonaws.com:5432/d37e6548jpe70"
+CONNECTION_STRING = ""
 
 BOT_NAME = 'info_bar'
 

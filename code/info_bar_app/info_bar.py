@@ -23,7 +23,7 @@ app = Flask(__name__)
 # # db path
 # db_name = './data/articles.db'
 
-app.config['SQLALCHEMY_DATABASE_URI'] = "postgresql://vreeyruntyufxs:e87b80d25c5d82bdab814a289ab330140ddcc16439639aacbc502d942720f4bd@ec2-18-215-8-186.compute-1.amazonaws.com:5432/d37e6548jpe70"
+app.config['SQLALCHEMY_DATABASE_URI'] = ""
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = True
 
 # this variable, db, will be used for all SQLAlchemy commands
