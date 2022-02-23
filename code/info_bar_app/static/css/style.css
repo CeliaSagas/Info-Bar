@@ -1,0 +1,118 @@
+input.button-style {
+  color:#0d67b5;
+  background-color: white;
+  font-family:'Didot',serif;
+  border-color:white;
+  display: inline-block;
+  padding: 2px 20px;
+  text-align: center;
+  margin: 2px 2px;
+  font-weight: 800;
+  font-size: 18px;
+  border-radius: 12px;
+
+}
+
+h2.form-title{
+  text-align:left;
+  display: inline-block;
+  padding: 0px;
+  margin: 2px;
+  font-family:'Didot',serif;
+  font-weight: 600;
+}
+
+input.url{
+  width:70%;
+}
+
+.buttonHolder{
+  text-align:center;
+
+}
+
+body {
+  background-color: #0d67b5;
+}
+
+h2 {
+  color:white;
+  font-family:'Didot', serif;
+  text-transform:lowercase;
+  text-align: left;
+}
+
+.brmedium {
+
+      display: block;
+      margin-bottom: 0.5em;
+  }
+
+button.button-style {
+    color:#0d67b5;
+    background-color: white;
+    font-family:'Didot',serif;
+    border-color:white;
+    display: inline-block;
+    padding: 2px 20px;
+    text-align: center;
+    margin: 2px 2px;
+    font-weight: 800;
+    font-size: 18px;
+    border-radius: 12px;
+
+  }
+
+
+  button.button-display {
+      color:#0d67b5;
+      background-color: white;
+      font-family:'Didot',serif;
+      border:none;
+
+      display: inline-block;
+      padding: 2px 20px;
+      text-align: center;
+      border-radius: 12px;
+
+      font-weight: 600;
+      font-size: 15px;
+
+    }
+
+.results {
+  background-color:white;
+  text-align:left;
+  display: inline-block;
+  border-style:solid;
+  border-color: #0d67b5;
+  border-radius: 12px;
+  padding: 25px;
+  color:#484848;
+
+
+}
+
+button.value {
+    color:#0d67b5;
+    background-color: white;
+    font-family:'Didot',serif;
+    border:none;
+    display: inline-block;
+    padding: 2px 20px;
+    text-align: center;
+    border-radius: 12px;
+    font-weight: 600;
+    font-size: 17px;
+    font-family:'Verdana',sans-serif;
+
+
+  }
+th.key{
+  color:#0d67b5;
+
+}
+
+form.form_class{
+  margin:5px 125px;
+}
